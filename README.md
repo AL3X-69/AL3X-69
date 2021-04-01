@@ -1,5 +1,5 @@
-### Hi there 👋
-#### I'm Alex6, a Java and Web developer.
+<h3>Hi there 👋</h3>
+<h4>I'm Alex6, a Java and Web developer.</h4>
 
 <!--
 **AL3X-69/AL3X-69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>You can contact me on Discord: Alex6#1483</p>
+<p>Send me a dm and I will respond you ASAP 😁 !</p>
+<br/>
+<p>You can also check my discord Bot SecRaid here: https://top.gg/bot/652560148983709739 !</p>
 
 ![https://github.com/AL3X-69](https://github-readme-stats.vercel.app/api?username=AL3X-69&show_icons=true&theme=highcontrast)
