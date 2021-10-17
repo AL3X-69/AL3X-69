@@ -12,5 +12,5 @@
 SecRaid, a Discord Security bot: https://top.gg/bot/652560148983709739 and https://secraid.fr !
 
 <!--![https://github.com/AL3X-69](https://github-readme-stats.vercel.app/api?username=AL3X-69&show_icons=true&theme=highcontrast) OLD METRICS-->
-[<img align="center" width="450" alt="🐙 Tako is watching you" src="https://raw.githubusercontent.com/AL3X-69/AL3X-69/main/nier_crop.png">](https://secraid.fr)
+[<img align="center" width="350" alt="🐙 Tako is watching you" src="https://raw.githubusercontent.com/AL3X-69/AL3X-69/main/nier_crop.png">](https://secraid.fr)
 
