@@ -1,25 +1,16 @@
-<h3>Hi there 👋</h3>
-<h4>I'm Alex6, a Java and Web developer.</h4>
+[<img align="right" alt="🐙 Tako is watching you" src="https://github.com/AL3X-69/AL3X-69/blob/main/github-metrics.svg">](https://secraid.fr)
+## Hi there 👋
+#### I'm Alex6, a Java and Web developer.</h4>
+*🐙 I'm a Tako 🐙*
 
-<!--
-**AL3X-69/AL3X-69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact
+- **Discord:** Alex6#1483
+- **Twitter:** AL3X__69
+- **Instagram:** al3x_69_
 
-Here are some ideas to get you started:
+## Projects
+SecRaid, a Discord Security bot: https://top.gg/bot/652560148983709739 and https://secraid.fr !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--![https://github.com/AL3X-69](https://github-readme-stats.vercel.app/api?username=AL3X-69&show_icons=true&theme=highcontrast) OLD METRICS-->
+[<img align="center" width="450" alt="🐙 Tako is watching you" src="https://raw.githubusercontent.com/AL3X-69/AL3X-69/main/nier_crop.png">](https://secraid.fr)
 
-<p>You can contact me on Discord: Alex6#1483</p>
-<p>Send me a dm and I will respond you ASAP 😁 !</p>
-<br/>
-<p>You can also check my discord Bot SecRaid here: https://top.gg/bot/652560148983709739 !</p>
-
-<!--![https://github.com/AL3X-69](https://github-readme-stats.vercel.app/api?username=AL3X-69&show_icons=true&theme=highcontrast)-->
-![Metrics](https://github.com/AL3X-69/AL3X-69/blob/master/github-metrics.svg)
