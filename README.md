@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 <br/>
 <p>You can also check my discord Bot SecRaid here: https://top.gg/bot/652560148983709739 !</p>
 
-![https://github.com/AL3X-69](https://github-readme-stats.vercel.app/api?username=AL3X-69&show_icons=true&theme=highcontrast)
+<!--![https://github.com/AL3X-69](https://github-readme-stats.vercel.app/api?username=AL3X-69&show_icons=true&theme=highcontrast)-->
+![Metrics](https://github.com/AL3X-69/AL3X-69/blob/master/github-metrics.svg)
