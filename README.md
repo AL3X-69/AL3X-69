@@ -1,4 +1,4 @@
-[<img align="right" alt="🐙 Tako is watching you" src="https://github.com/AL3X-69/AL3X-69/blob/main/github-metrics.svg">](https://secraid.fr)
+[<img align="right" alt="🐙 Tako is watching you" width="400" src="https://github.com/AL3X-69/AL3X-69/blob/main/github-metrics.svg">](https://secraid.fr)
 ## Hi there 👋
 #### I'm Alex6, a Java and Web developer.</h4>
 *🐙 I'm a Tako 🐙*
