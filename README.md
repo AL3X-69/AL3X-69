@@ -5,7 +5,7 @@
 
 ## Contact
 - **Discord:** Alex6#1483
-- **Twitter:** AL3X__69
+- **Twitter:** Alex__6_
 - **Instagram:** al3x_69_
 
 ## Projects
