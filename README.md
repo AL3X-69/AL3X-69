@@ -11,6 +11,8 @@
 ## Projects
 SecRaid, a Discord Security bot: https://top.gg/bot/652560148983709739 and https://secraid.fr !
 
+Sovaros, a french GTAV Roleplay Server: https://sites.google.com/view/sovarosfr !
+
 *⚓ Rejoins DevAlternative™: [.gg/p36HaVy4Rb](https://discord.gg/p36HaVy4Rb)*
 
 ![View Count](https://komarev.com/ghpvc/?username=AL3X-69)
