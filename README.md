@@ -9,9 +9,9 @@
 - **Instagram:** al3x_69_
 
 ## Projects
-SecRaid, a Discord Security bot: https://top.gg/bot/652560148983709739 and https://secraid.fr !
+SecRaid, a Discord Security bot: https://top.gg/bot/652560148983709739 !
 
-Sovaros, a french GTAV Roleplay Server: https://sites.google.com/view/sovarosfr !
+NightCity, a french GTAV Roleplay Server, with a lot of amazing features: https://discord.gg/pGPjHqAg6P !
 
 ![View Count](https://komarev.com/ghpvc/?username=AL3X-69)
 
