@@ -1,7 +1,7 @@
 [<img align="right" alt="🐙 Tako is watching you" width="400" src="https://github.com/AL3X-69/AL3X-69/blob/main/github-metrics.svg">](https://alex6.dev)
 # Hi there 👋
 ### I'm Alex6, a Java Fullstack developer ☕.
-I'm a self-taught programmer since 2015, I learned a few languages and framework including but not limited to: Java, JS, TS, HTML5/CSS3, Sass, Spring, C#, .NET, JQuery, etc.
+I'm a self-taught programmer since 2015. During these years, I learned a few languages and frameworks including but not limited to: Java, JS, TS, HTML5/CSS3, Sass, Spring, C#, .NET, JQuery, etc.
 
 If you have a project idea, need a developper, want some help on something or just want to talk with me, you can contact me (my socials are a little further down this page) and I will be happy to talk with you 😄 !
 
@@ -11,6 +11,7 @@ If you have a project idea, need a developper, want some help on something or ju
 
 ## Studies 
 - ⚕️ **PASS** (Parcours Accès Spécifique Santé (First year of medical school in France)): 2022-23
+- 🔌 **L2 EEEA** (2e année de licence Électronique, Énergie Électrique et Automatique): 2023-24 => in progress
 
 ## Languages I speak:
 - 🇫🇷 French (native speaker)
