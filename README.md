@@ -16,7 +16,7 @@ If you have a project idea, need a developper, want some help on something or ju
 ## Languages I speak:
 - 🇫🇷 French (native speaker)
 - 🇬🇧 English (fluent: C1)
-- 🇪🇸 Spanish (basics: A2-B1)
+- 🇪🇸 Spanish (basics: A2)
 - 🇯🇵 Japanese (a little bit 🤏 / actively learning)
 
 ## Contact
