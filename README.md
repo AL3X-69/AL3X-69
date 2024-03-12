@@ -27,6 +27,9 @@ If you have a project idea, need a developper, want some help on something or ju
 ## My Public Projects
 🛡️ SecRaid, a Discord Security bot: https://top.gg/bot/652560148983709739 !
 
+## Support me
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H3OOYXD)
+
 <!--NightCity, a french GTAV Roleplay Server, with a lot of amazing features: https://discord.gg/pGPjHqAg6P !-->
 
 ![View Count](https://komarev.com/ghpvc/?username=AL3X-69)
