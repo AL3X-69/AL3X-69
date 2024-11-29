@@ -19,7 +19,6 @@ If you have a project idea, need a developper, want some help on something or ju
 - 🇫🇷 French (native speaker)
 - 🇬🇧 English (fluent: C1)
 - 🇪🇸 Spanish (basics: A2)
-- 🇯🇵 Japanese (a little bit 🤏 / actively learning)
 
 ## Languages I code in:
 - ☕ Java
