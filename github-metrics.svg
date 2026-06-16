@@ -152,7 +152,7 @@
                                 <div class="infos">
                                     <div class="name">Love Supreme!</div>
                                     <div class="artist">fhána</div>
-                                    <div class="played-at">Played at 17:56:13 on 15 Jun 2026</div>
+                                    <div class="played-at">Played at 19:16:39 on 15 Jun 2026</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -2176,6 +2176,11 @@
                         </g>
                         <g transform="translate(88.39999999999999, 52)">
                             <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 7)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
